@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julliebabe
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis tools like Microsoft Excel spreadsheet, Power Business intelligence ,SQL and Tablue
+- 🌱 I’m currently learning Data Analysis tools like Microsoft Excel spreadsheet, Power Business intelligence ,SQL and Tableau
 - 💞️ I’m looking to collaborate with seasonal and expert in Data space community
 
 - 😄 I am she( BSc in Statistics)
